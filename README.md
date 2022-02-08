@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![app-screenshot]()
+![app-screenshot](https://raw.githubusercontent.com/anieto/miyoo_mini_cleanfilesystem/main/screenshot.png)
 
 </div>
 
