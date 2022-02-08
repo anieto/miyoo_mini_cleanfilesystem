@@ -1,0 +1,7 @@
+{
+"label":"Clean File System",
+"icon":"icon.png",
+"iconsel":"icon.png",
+"launch":"launch.sh",
+"description":"Delete ._ files from system."
+}
